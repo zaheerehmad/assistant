@@ -1,5 +1,5 @@
 {
-  "name": "@zaheerehmad\assistant",
+  "name": "@zaheerehmad/assistant",
   "version": "0.0.1",
   "private": false,
   "scripts": {
@@ -8,6 +8,8 @@
   "dependencies": {
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
+    "lodash": "^4.17.4",
+    "pg": "^6.1.2",
     "debug": "~2.6.0",
     "ejs": "~2.5.5",
     "express": "~4.14.1",
